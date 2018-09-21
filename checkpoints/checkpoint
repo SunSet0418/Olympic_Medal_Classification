@@ -1,2 +1,2 @@
-model_checkpoint_path: "olympic_model.ckpt"
-all_model_checkpoint_paths: "olympic_model.ckpt"
+model_checkpoint_path: "olympic_nn_model.ckpt"
+all_model_checkpoint_paths: "olympic_nn_model.ckpt"
